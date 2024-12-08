@@ -1,6 +1,6 @@
-# RISC Machine Source Code for CPEN 211 CPU Competition
+# RISC-V Machine Source Code for CPU Competition
 
-This repository contains the RISC machine source code used in the CPEN 211 CPU competition held at the end of the semester.
+This repository contains the RISC-V machine source code used in the CPEN 211 CPU competition held at the end of the semester.
 
 ## Performance Overview
 - **Main Branch**: Achieves **maximum 5 cycles per instruction**.
