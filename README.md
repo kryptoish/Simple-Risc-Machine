@@ -1,9 +1,9 @@
 # RISC Machine Source Code for CPEN 211 CPU Competition
 
-This repository contains the RISC machine source code used in the CPEN 211 CPU competition held at the end of the semester. 
+This repository contains the RISC machine source code used in the CPEN 211 CPU competition held at the end of the semester.
 
 ## Performance Overview
-- **Main Branch**: Achieves **maximum 5 cycles per instruction**. 
+- **Main Branch**: Achieves **maximum 5 cycles per instruction**.
 - **Competition Results**: Ranked **3rd place** in terms of:
   - Efficiency to compute a program.
   - Maximum clock frequency achieved.
@@ -11,7 +11,7 @@ This repository contains the RISC machine source code used in the CPEN 211 CPU c
 - **Pipelined Branch**: An experimental version of the RISC machine with pipelining is available in the `pipelined` branch. Although not fully debugged, it is theoretically **2-3x faster** than the current implementation.
 
 ### Final Ranking and Scores
-![Final Ranking and Scores](image/rankings.png)
+![Final Ranking and Scores](images/rankings.png)
 
 ---
 
